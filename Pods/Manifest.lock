@@ -1,0 +1,12 @@
+PODS:
+  - KJExpandableTableTree (1.1.2)
+
+DEPENDENCIES:
+  - KJExpandableTableTree
+
+SPEC CHECKSUMS:
+  KJExpandableTableTree: b6b20b330e1067a63efec2d4eca69faba64676ca
+
+PODFILE CHECKSUM: eb3cff43cc4d8aa76aa893d4a9796b924b966515
+
+COCOAPODS: 1.3.0.beta.2
